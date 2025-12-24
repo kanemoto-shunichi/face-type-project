@@ -1,0 +1,212 @@
+= 詳細設計書：facetype16.com
+:doctype: book
+:toc: left
+:toclevels: 3
+:sectnums:
+:source-highlighter: highlight.js
+
+== API定義書 (REST API Definition)
+
+バックエンド（FastAPI / `backend/main.py`）が提供する主要エンドポイントです。
+
+=== `POST /predict`
+
+画像を受け取り、16タイプ診断を実行して結果を返します。
+
+* **Content-Type**: `multipart/form-data`
+
+==== Request Parameters
+
+[cols="1,1,2", options="header"]
+|===
+|Name |Type |Description
+|`file` |Binary |Image file, max 1MB [Required]
+|`gender` |String |`man` or `woman` [Required]
+|===
+
+==== Response (JSON)
+
+[source,json]
+----
+{
+  "type_code": "YCSW",
+  "numeric_params": {
+    "eye_size": 0.05,
+    "face_length": 1.3,
+    "jaw_roundness": 0.8,
+    "brow_curve": 0.1,
+    "contrast_level": 30.5,
+    "warmth": -15.2
+  },
+  "fileUrl": "https://supabase-storage.../uuid.jpg",
+  "examples": [
+    { "name": "有名人A", "note": "キュート系" }
+  ],
+  "resultId": 123,
+  "is_face_detected": true
+}
+----
+
+=== `GET /my/results`
+
+ログインユーザーの過去の診断履歴を取得します。
+
+* **Headers**: `Authorization: Bearer <Supabase-JWT>`
+
+==== Response (JSON)
+
+[source,json]
+----
+{
+  "results": [
+    {
+      "id": 123,
+      "created_at": "2023-10-27T10:00:00Z",
+      "gender": "woman",
+      "type_code": "YCSW",
+      "fileUrl": "..."
+    }
+  ]
+}
+----
+
+== シーケンス図 (Sequence Diagram)
+
+診断処理における、フロントエンド・バックエンド・外部サービス（Supabase/MediaPipe）の連携フローです。
+
+[mermaid]
+....
+sequenceDiagram
+    participant User as ユーザー
+    participant FE as "Next.js (Client)"
+    participant API as "FastAPI Backend"
+    participant MP as "MediaPipe (Logic)"
+    participant DB as "Supabase DB/Storage"
+
+    User->>FE: "画像選択 & アップロード"
+    FE->>FE: "画像圧縮 (browser-image-compression)"
+    FE->>API: "POST /predict (FormData)"
+
+    activate API
+    API->>API: "画像読み込み (PIL)"
+    API->>DB: "画像ファイルをStorageへ保存"
+    DB-->>API: "Public URL返却"
+
+    API->>MP: "特徴量解析 (Face Mesh)"
+    MP-->>API: "ランドマーク座標 & パラメータ"
+
+    API->>API: "最近傍探索 (Nearest Neighbor) で判定"
+    API->>DB: "診断結果をINSERT (face_results)"
+    DB-->>API: "Result ID (id=123)"
+
+    API->>DB: "有名人例 (examples) をSELECT"
+    DB-->>API: "examples list"
+
+    API-->>FE: "JSONレスポンス"
+    deactivate API
+
+    FE->>User: "結果画面表示 (Result Card)"
+....
+
+== 状態遷移図 (State Transition Diagram)
+
+診断ページ (`FaceTypeByPhotoPage`) におけるフロントエンドの状態管理フローです。
+
+[mermaid]
+....
+stateDiagram-v2
+    %% 日本語ラベルを含むステートを別名(alias)で定義
+    state "アイドル状態" as Idle
+    state "入力待ち" as InputWait
+    state "ファイル選択済" as FileSelected
+    
+    state "アップロード中" as Uploading
+    state "画像圧縮" as Compressing
+    state "API送信" as Sending
+    state "進捗アニメーション (Scanner)" as Polling
+    state "成功 (200 OK)" as Success
+    state "エラー (400/500)" as UploadError
+
+    state "結果表示中" as ResultView
+    state "結果カード表示" as ShowResult
+    
+    state "アンロック待機" as Unlocking
+    state "ログイン確認" as CheckLogin
+    state "ログイン要" as NeedLogin
+    state "シェア確認" as CheckShare
+    state "シェア要" as NeedShare
+    state "シェア済" as Unlocked
+    state "Google認証" as AuthRedirect
+    state "SNSシェア (X/LINE)" as ShareAction
+    
+    state "レポートページ (/report/id)" as ReportPage
+
+    %% 遷移の定義
+    [*] --> Idle: ページロード
+
+    state Idle {
+        [*] --> InputWait
+        InputWait --> FileSelected: 画像選択
+    }
+
+    FileSelected --> Uploading: 診断開始
+
+    state Uploading {
+        [*] --> Compressing
+        Compressing --> Sending
+        Sending --> Polling
+        Polling --> Success
+        Polling --> UploadError
+    }
+
+    UploadError --> Idle: 再試行
+
+    state ResultView {
+        Success --> ShowResult
+        ShowResult --> Unlocking: 詳細クリック
+    }
+
+    state Unlocking {
+        [*] --> CheckLogin
+        CheckLogin --> NeedLogin: 未ログイン
+        CheckLogin --> CheckShare: 済
+
+        NeedLogin --> AuthRedirect
+
+        CheckShare --> NeedShare: 未シェア
+        CheckShare --> Unlocked: 済
+
+        NeedShare --> ShareAction
+        ShareAction --> Unlocked: DB更新
+    }
+
+    Unlocked --> ReportPage: 遷移
+....
+== データモデル設計 (ER Diagram)
+
+=== face_results Table
+
+[cols="1,1,2", options="header"]
+|===
+|Column |Type |Description
+|`id` |BigInt |Primary Key
+|`user_id` |UUID |FK to auth.users (Nullable)
+|`gender` |Text |'man' or 'woman'
+|`type_code` |Text |Ex: 'YCSW'
+|`numeric_params` |JSONB |解析生データ
+|`file_url` |Text |画像URL
+|`is_shared` |Boolean |Default: false
+|`created_at` |Timestamp |作成日時
+|===
+
+=== face_type_examples Table
+
+[cols="1,1,2", options="header"]
+|===
+|Column |Type |Description
+|`id` |BigInt |Primary Key
+|`gender` |Text |ターゲット性別
+|`type_code` |Text |対応タイプ
+|`name` |Text |有名人名
+|`note` |Text |補足情報
+|===

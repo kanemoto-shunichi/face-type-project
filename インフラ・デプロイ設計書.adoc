@@ -1,0 +1,111 @@
+= インフラ・デプロイ設計書：facetype16.com
+:doctype: book
+:toc: left
+:toclevels: 3
+:sectnums:
+:source-highlighter: highlight.js
+
+== CI/CDフロー図 (CI/CD Pipeline)
+
+GitHubへのプッシュをトリガーとして、自動テストと各環境へのデプロイを行うフローです。
+
+[mermaid]
+....
+graph TD
+    User["開発者"] -->|"git push origin main"| GitHub["GitHub Repository"]
+
+    subgraph "CI: GitHub Actions"
+        GitHub -->|"Trigger"| TestJob["テスト実行ジョブ"]
+        TestJob -->|"pytest (Backend)"| PyTest["Python Unit Tests"]
+        TestJob -->|"vitest (Frontend)"| ViTest["React Component Tests"]
+    end
+
+    subgraph "CD: Deployment"
+        PyTest -->|"Pass"| DeployGate{"全テスト合格?"}
+        ViTest -->|"Pass"| DeployGate
+
+        DeployGate -->|"Yes"| VercelDeploy["Vercel Deployment"]
+        DeployGate -->|"Yes"| RenderDeploy["Render Deployment"]
+
+        VercelDeploy -->|"Source Map Upload"| Sentry["Sentry (Artifacts)"]
+    end
+
+    subgraph "Production Environments"
+        VercelDeploy -->|"反映"| Vercel["Vercel (Frontend / Edge)"]
+        RenderDeploy -->|"反映"| Render["Render (Backend API)"]
+    end
+
+    DeployGate -->|"No"| Notify["Slack/Email通知 (失敗)"]
+....
+
+== 監視・ログ設計 (Monitoring & Logging)
+
+異常検知とパフォーマンス監視のために、Sentryを中心とした監視体制を構築します。
+
+=== 監視ツール構成
+
+[cols="1,1,3", options="header"]
+|===
+|監視対象 |ツール |用途
+|**Frontend (Client)** |Sentry (Browser SDK) |ユーザーのブラウザで発生したJSエラー、Web Vitals (LCP/FID) の計測
+|**Frontend (Server)** |Sentry (Next.js SDK) |Vercel Edge Functions / SSR時のエラー検知
+|**Backend (API)** |Sentry (Python SDK) |FastAPIの500エラー、処理パフォーマンス (Transactions) の計測
+|**Database** |Supabase Dashboard |クエリパフォーマンス、容量監視
+|===
+
+=== エラー検知・通知フロー
+
+[mermaid]
+....
+sequenceDiagram
+    participant User as "ユーザー"
+    participant App as "アプリ (Next.js/FastAPI)"
+    participant Sentry as "Sentry"
+    participant Dev as "開発チーム"
+
+    User->>App: "操作 / APIリクエスト"
+    Note right of App: "例外発生 (Exception)"
+
+    App->>Sentry: "エラーイベント送信 (Stacktrace + Context)"
+    Note right of App: "機密情報(個人写真等)はフィルタリング"
+
+    Sentry->>Sentry: "イベント集約 (Grouping)"
+    
+    opt "Issue Alert (Critical)"
+        Sentry->>Dev: "メール / Slack通知"
+    end
+
+    Dev->>Sentry: "詳細確認・担当者アサイン"
+....
+
+== 環境変数定義 (Environment Variables)
+
+各環境（Local / Staging / Production）で管理すべき環境変数の一覧です。
+**※APIキーなどの機密情報はリポジトリにコミットせず、Vercel/Renderのダッシュボードおよび `.env` で管理します。**
+
+=== Frontend (Next.js / Vercel)
+
+[cols="2,1,3", options="header"]
+|===
+|変数名 |必須 |説明
+|`NEXT_PUBLIC_API_BASE_URL` |Yes |バックエンドAPIのURL (例: `https://backend-xyz.onrender.com`)
+|`NEXT_PUBLIC_SENTRY_DSN` |Yes |Sentryのエラー送信先URL
+|`SENTRY_AUTH_TOKEN` |Yes |**[Secret]** ビルド時のソースマップアップロード用トークン
+|`NEXT_PUBLIC_SUPABASE_URL` |No |(直接DB接続する場合) SupabaseプロジェクトURL
+|`NEXT_PUBLIC_SUPABASE_ANON_KEY`|No |(直接DB接続する場合) クライアント用公開APIキー
+|===
+
+=== Backend (FastAPI / Render)
+
+[cols="2,1,3", options="header"]
+|===
+|変数名 |必須 |説明
+|`SUPABASE_URL` |Yes |SupabaseプロジェクトURL
+|`SUPABASE_SERVICE_ROLE_KEY` |Yes |**[Secret]** 全権限を持つ管理者キー (DB書き込み用)
+|`SUPABASE_BUCKET_NAME` |Yes |画像保存先のバケット名 (例: `face-uploads`)
+|`STORAGE_BACKEND` |Yes |`supabase` (本番) または `local` (開発)
+|`SENTRY_DSN` |Yes |Sentryのエラー送信先URL
+|`SENTRY_ENVIRONMENT` |Yes |`production` / `development` の識別
+|`FRONTEND_BASE_URL` |Yes |CORS許可オリジン (例: `https://facetype16.com`)
+|`MEDIA_BASE_URL` |No |(Local保存時のみ) 画像配信のベースURL
+|===

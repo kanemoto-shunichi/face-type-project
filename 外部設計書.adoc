@@ -1,0 +1,101 @@
+= 外部設計書：facetype16.com
+:doctype: book
+:toc: left
+:toclevels: 3
+:sectnums:
+:source-highlighter: highlight.js
+
+== 画面遷移図 (Screen Transition Diagram)
+
+ユーザーがどのようにアプリ内を移動するかを定義します。
+
+[mermaid]
+....
+graph TD
+    Home["トップページ (/)"] -->|「診断をはじめる」| Diagnosis["診断実行ページ (/face-type)"]
+
+    Diagnosis -->|"画像アップロード"| Processing(("AI解析中"))
+    Processing --> Result["簡易結果表示 (同ページ内)"]
+
+    Result -->|「詳細レポートを見る」| UnlockModal{"アンロックモーダル"}
+
+    UnlockModal -->|"Login未"| Login["Googleログイン (Supabase Auth)"]
+    Login --> UnlockModal
+
+    UnlockModal -->|"Share未"| Share["SNSシェア (X / LINE)"]
+    Share --> UnlockModal
+
+    UnlockModal -->|"条件達成"| Report["詳細レポートページ (/report/:id)"]
+
+    subgraph "Footer Links"
+        Home --> Privacy["/privacy"]
+        Home --> Terms["/terms"]
+        Home --> Tokushoho["/tokushoho"]
+    end
+
+    Report -->|"マイページへ"| MyPage["/mypage"]
+....
+
+== UI設計書 (UI Structure)
+
+主要な画面のコンポーネント構成です。
+
+=== トップページ (`app/page.tsx`)
+
+* **Hero Section**
+** コピー: 「あなたの顔を、16タイプに言語化」 (Gradient Text)
+** CTAボタン: 「診断をはじめる」（Floating Action）
+** Visual: マネキンヘッドのSVG + `framer-motion`による出現アニメーション
+* **About Section**
+** Bento Gridレイアウト（3カラムグリッド）による特徴説明。
+* **Process Section**
+** 処理パイプライン（Preprocessing -> Vectorization...）の可視化。
+
+=== 診断実行ページ (`app/face-type/page.tsx`)
+
+* **Header**
+** シンプルなタイトルとアイコン。
+* **Gender Selection**
+** 女性 / 男性 のトグルスイッチ（Capsule shape）。
+* **Upload Area**
+** 点線ボーダーのDashed Area。
+** ドラッグ＆ドロップ対応。
+** プレビュー表示機能。
+* **Loading State**
+** *Scanning Ring*: 青色の回転リングアニメーション。
+** *Progress Bar*: 擬似的な進捗（0%〜100%）。
+** *Step Indicator*: `Face Detection` -> `Feature Extraction` -> `Type Classification` のステップ表示。
+* **Result Card**
+** 背景: Indigo to Violet Gradient。
+** 内容: アップロード画像、タイプコード（例: YCSW）、パラメータタグ。
+** *Unlock Trigger*: 「詳細レポートを見る」ボタン（クリックでモーダル起動）。
+
+== デザインシステム / スタイルガイド
+
+`app/globals.css` および Tailwind CSS 設定に基づくルール定義です。
+
+=== Color Palette
+
+* **Primary (Brand)**
+** `Indigo-600` (#4F46E5) ～ `Violet-600` (#7C3AED)
+** グラデーションで使用することが多い。
+* **Background**
+** Light: `#ffffff` / `Slate-50` (#F8FAFC)
+** Dark: `#0a0a0a` (Media Query対応)
+* **Text**
+** Heading: `Slate-900` (#0F172A)
+** Body: `Slate-600` (#475569)
+* **Accent (Error/Warning)**
+** `Amber-500` / `Red-500`
+
+=== Typography
+
+* **Font Family**: `Geist Sans` (Variable font), Fallback to `Arial`.
+* **Size Scale**: Tailwindデフォルト (`text-xs` to `text-7xl`).
+
+=== Components
+
+* **Button**: Rounded-Full, Shadow-lg, Hoverアニメーション（`translate-y`）。
+* **Card**: Rounded-3xl, White/Glassmorphism border (`border-white/60`), Backdrop Blur。
+* **Animation**: `framer-motion` を標準使用 (`animate-slide-up`, `opacity`, `scale`).
+

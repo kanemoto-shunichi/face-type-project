@@ -1,0 +1,290 @@
+{
+  "YCSW": {
+    "index": 1,
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.8
+    },
+    "prompt": "ultra detailed portrait of an adult East Asian man, highly realistic, 4k, studio lighting, looking at camera, upper body, neutral background, young adult man with a soft babyface, big eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, subtle features, soft contrast, gentle lighting, low contrast between skin and hair, warm and friendly expression, slight gentle smile, approachable"
+  },
+  "YCSK": {
+    "index": 2,
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "ultra detailed portrait of an adult East Asian man, highly realistic, 4k, studio lighting, looking at camera, upper body, neutral background, young adult man with a soft babyface, big eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, subtle features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet"
+  },
+  "YCDW": {
+    "index": 3,
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.7,
+      "warmth": 0.8
+    },
+    "prompt": "ultra detailed portrait of an adult East Asian man, highly realistic, 4k, studio lighting, looking at camera, upper body, neutral background, young adult man with a soft babyface, big eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, striking features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable"
+  },
+  "YCDK": {
+    "index": 4,
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.7,
+      "warmth": 0.2
+    },
+    "prompt": "ultra detailed portrait of an adult East Asian man, highly realistic, 4k, studio lighting, looking at camera, upper body, neutral background, young adult man with a soft babyface, big eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, striking features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet"
+  },
+  "YLSW": {
+    "index": 5,
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.3,
+      "warmth": 0.8
+    },
+    "prompt": "ultra detailed portrait of an adult East Asian man, highly realistic, 4k, studio lighting, looking at camera, upper body, neutral background, young adult man with a soft babyface, big eyes, slightly shorter lower face (still an adult), sharp jawline, straighter facial contours, straight eyebrows, subtle features, soft contrast, gentle lighting, low contrast between skin and hair, warm and friendly expression, slight gentle smile, approachable"
+  },
+  "YLSK": {
+    "index": 6,
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "ultra detailed portrait of an adult East Asian man, highly realistic, 4k, studio lighting, looking at camera, upper body, neutral background, young adult man with a soft babyface, big eyes, slightly shorter lower face (still an adult), sharp jawline, straighter facial contours, straight eyebrows, subtle features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet"
+  },
+  "YLDW": {
+    "index": 7,
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.7,
+      "warmth": 0.8
+    },
+    "prompt": "ultra detailed portrait of an adult East Asian man, highly realistic, 4k, studio lighting, looking at camera, upper body, neutral background, young adult man with a soft babyface, big eyes, slightly shorter lower face (still an adult), sharp jawline, straighter facial contours, straight eyebrows, striking features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable"
+  },
+  "YLDK": {
+    "index": 8,
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.7,
+      "warmth": 0.2
+    },
+    "prompt": "ultra detailed portrait of an adult East Asian man, highly realistic, 4k, studio lighting, looking at camera, upper body, neutral background, young adult man with a soft babyface, big eyes, slightly shorter lower face (still an adult), sharp jawline, straighter facial contours, straight eyebrows, striking features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet"
+  },
+  "MCSW": {
+    "index": 9,
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.8
+    },
+    "prompt": "ultra detailed portrait of an adult East Asian man, highly realistic, 4k, studio lighting, looking at camera, upper body, neutral background, mature adult man with strong bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, subtle features, soft contrast, gentle lighting, low contrast between skin and hair, warm and friendly expression, slight gentle smile, approachable"
+  },
+  "MCSK": {
+    "index": 10,
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "ultra detailed portrait of an adult East Asian man, highly realistic, 4k, studio lighting, looking at camera, upper body, neutral background, mature adult man with strong bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, subtle features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet"
+  },
+  "MCDW": {
+    "index": 11,
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.7,
+      "warmth": 0.8
+    },
+    "prompt": "ultra detailed portrait of an adult East Asian man, highly realistic, 4k, studio lighting, looking at camera, upper body, neutral background, mature adult man with strong bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, striking features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable"
+  },
+  "MCDK": {
+    "index": 12,
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.7,
+      "warmth": 0.2
+    },
+    "prompt": "ultra detailed portrait of an adult East Asian man, highly realistic, 4k, studio lighting, looking at camera, upper body, neutral background, mature adult man with strong bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, striking features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet"
+  },
+  "MLSW": {
+    "index": 13,
+    "axes": {
+      "age": "M",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.3,
+      "warmth": 0.8
+    },
+    "prompt": "ultra detailed portrait of an adult East Asian man, highly realistic, 4k, studio lighting, looking at camera, upper body, neutral background, mature adult man with strong bone structure and a slightly longer midface, sharp jawline, straighter facial contours, straight eyebrows, subtle features, soft contrast, gentle lighting, low contrast between skin and hair, warm and friendly expression, slight gentle smile, approachable"
+  },
+  "MLSK": {
+    "index": 14,
+    "axes": {
+      "age": "M",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "ultra detailed portrait of an adult East Asian man, highly realistic, 4k, studio lighting, looking at camera, upper body, neutral background, mature adult man with strong bone structure and a slightly longer midface, sharp jawline, straighter facial contours, straight eyebrows, subtle features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet"
+  },
+  "MLDW": {
+    "index": 15,
+    "axes": {
+      "age": "M",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.7,
+      "warmth": 0.8
+    },
+    "prompt": "ultra detailed portrait of an adult East Asian man, highly realistic, 4k, studio lighting, looking at camera, upper body, neutral background, mature adult man with strong bone structure and a slightly longer midface, sharp jawline, straighter facial contours, straight eyebrows, striking features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable"
+  },
+  "MLDK": {
+    "index": 16,
+    "axes": {
+      "age": "M",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.7,
+      "warmth": 0.2
+    },
+    "prompt": "ultra detailed portrait of an adult East Asian man, highly realistic, 4k, studio lighting, looking at camera, upper body, neutral background, mature adult man with strong bone structure and a slightly longer midface, sharp jawline, straighter facial contours, straight eyebrows, striking features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet"
+  }
+}
