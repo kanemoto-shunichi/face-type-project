@@ -1,4 +1,4 @@
-# FaceType (仮) - AI顔タイプ診断アプリケーション
+# FaceType16 - AI顔タイプ診断アプリケーション
 
 ![Project Banner]([アプリのトップ画やOGPの画像をここに貼る])
 
@@ -10,8 +10,8 @@
 単なる画像処理だけでなく、ユーザーの診断結果を保存する履歴機能や、タイプ別の有名人レコメンド機能も実装しています。
 
 ### 🔗 デモ・リンク
-- **App URL:** [https://facetype16.com (ここに本番URL)]
-- **API Documentation:** [https://backend-url.onrender.com/docs (SwaggerUIのURL)]
+- **App URL:** [https://facetype16.com]
+- **API Documentation:** [https://backend-5csp.onrender.com]
 
 ---
 
@@ -22,7 +22,7 @@
 | Category | Technology |
 | --- | --- |
 | **Frontend** | Next.js (App Router), TypeScript, Tailwind CSS |
-| **Backend** | Python 3.11, FastAPI |
+| **Backend** | Python 3.10, FastAPI |
 | **AI / ML** | MediaPipe (Face Mesh), NumPy, OpenCV |
 | **Database** | Supabase (PostgreSQL) |
 | **Auth** | Supabase Auth |
