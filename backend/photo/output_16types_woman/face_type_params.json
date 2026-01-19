@@ -1,0 +1,1202 @@
+{
+  "img_001": {
+    "index": 1,
+    "filename": "001_YLSK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_002": {
+    "index": 2,
+    "filename": "002_YLDK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.7,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_003": {
+    "index": 3,
+    "filename": "003_YLSK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_004": {
+    "index": 4,
+    "filename": "004_MCDW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.7,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_005": {
+    "index": 5,
+    "filename": "005_YLSK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_006": {
+    "index": 6,
+    "filename": "006_YCDK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.7,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_007": {
+    "index": 7,
+    "filename": "007_MCDW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.7,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_008": {
+    "index": 8,
+    "filename": "008_YCSK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_009": {
+    "index": 9,
+    "filename": "009_YLDW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.7,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_010": {
+    "index": 10,
+    "filename": "010_MLSK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, sharper jawline, straighter facial contours, straight eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_011": {
+    "index": 11,
+    "filename": "011_YCSW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_012": {
+    "index": 12,
+    "filename": "012_MCDW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.7,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_013": {
+    "index": 13,
+    "filename": "013_MCSK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_014": {
+    "index": 14,
+    "filename": "014_MCSK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_015": {
+    "index": 15,
+    "filename": "015_MCDK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.7,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_016": {
+    "index": 16,
+    "filename": "016_YCSW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_017": {
+    "index": 17,
+    "filename": "017_MCSW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_018": {
+    "index": 18,
+    "filename": "018_MCSK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_019": {
+    "index": 19,
+    "filename": "019_MLDW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.7,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, sharper jawline, straighter facial contours, straight eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_020": {
+    "index": 20,
+    "filename": "020_YLDK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.7,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_021": {
+    "index": 21,
+    "filename": "021_MLDK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.7,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, sharper jawline, straighter facial contours, straight eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_022": {
+    "index": 22,
+    "filename": "022_YLDW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.7,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_023": {
+    "index": 23,
+    "filename": "023_MCDW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.7,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_024": {
+    "index": 24,
+    "filename": "024_YLSW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.3,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_025": {
+    "index": 25,
+    "filename": "025_YCSK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_026": {
+    "index": 26,
+    "filename": "026_MLDK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.7,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, sharper jawline, straighter facial contours, straight eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_027": {
+    "index": 27,
+    "filename": "027_YLSW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.3,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_028": {
+    "index": 28,
+    "filename": "028_YCDW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.7,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_029": {
+    "index": 29,
+    "filename": "029_MCDK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.7,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_030": {
+    "index": 30,
+    "filename": "030_YCSK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_031": {
+    "index": 31,
+    "filename": "031_YLSW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.3,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_032": {
+    "index": 32,
+    "filename": "032_YCSK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_033": {
+    "index": 33,
+    "filename": "033_YCSW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_034": {
+    "index": 34,
+    "filename": "034_YLDW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.7,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_035": {
+    "index": 35,
+    "filename": "035_YLDW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.7,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_036": {
+    "index": 36,
+    "filename": "036_YCDK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.7,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_037": {
+    "index": 37,
+    "filename": "037_YLSW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.3,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_038": {
+    "index": 38,
+    "filename": "038_YLDK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.7,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_039": {
+    "index": 39,
+    "filename": "039_YCSW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_040": {
+    "index": 40,
+    "filename": "040_YLDW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.7,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_041": {
+    "index": 41,
+    "filename": "041_MCDK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.7,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_042": {
+    "index": 42,
+    "filename": "042_YCSK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_043": {
+    "index": 43,
+    "filename": "043_MCSK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_044": {
+    "index": 44,
+    "filename": "044_MCSK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_045": {
+    "index": 45,
+    "filename": "045_MLSW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.3,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, sharper jawline, straighter facial contours, straight eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_046": {
+    "index": 46,
+    "filename": "046_MLSK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, sharper jawline, straighter facial contours, straight eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_047": {
+    "index": 47,
+    "filename": "047_YLSK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.7,
+      "face_length": 0.3,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_048": {
+    "index": 48,
+    "filename": "048_MLDK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.7,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, sharper jawline, straighter facial contours, straight eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_049": {
+    "index": 49,
+    "filename": "049_MCDW_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.7,
+      "brow_curve": 0.7,
+      "contrast_level": 0.7,
+      "warmth": 0.8
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  },
+  "img_050": {
+    "index": 50,
+    "filename": "050_MLSK_beautifulRealistic_v7.png",
+    "success": true,
+    "error": "",
+    "model": "beautifulRealistic_v7.safetensors",
+    "axes": {
+      "age": "M",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "numeric_params": {
+      "eye_size": 0.4,
+      "face_length": 0.7,
+      "jaw_roundness": 0.3,
+      "brow_curve": 0.3,
+      "contrast_level": 0.3,
+      "warmth": 0.2
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, sharper jawline, straighter facial contours, straight eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "negative_prompt": "child, kid, teen, male, man, boy, masculine, beard, mustache, stubble, facial hair, very muscular, bodybuilder, thick neck, extremely broad shoulders, androgynous, androgyny, femboy, deformed, extra limbs, text, watermark, logo, blurry, low quality, bad anatomy, nsfw, nude, naked, underwear, lingerie, cleavage, sideboob, underboob, see-through clothes, distorted face, ugly, disfigured, male, man, boy, masculine face, beard, mustache, stubble, facial hair, very muscular body, thick neck, heavy and dramatic makeup, gothic makeup, clown makeup",
+    "seed": -1
+  }
+}

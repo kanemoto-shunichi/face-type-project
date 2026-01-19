@@ -1,0 +1,290 @@
+{
+  "YLSK": {
+    "index": 1,
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "numeric_params": {
+      "eye_size": 0.6292547306926671,
+      "face_length": 0.23558060012960425,
+      "jaw_roundness": 0.46396511163277215,
+      "brow_curve": 0.6936299236111251,
+      "contrast_level": 0.5661876491574046,
+      "warmth": 0.6354292242983159
+    }
+  },
+  "YLDK": {
+    "index": 2,
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "numeric_params": {
+      "eye_size": 0.5878257166550797,
+      "face_length": 0.11589504222034486,
+      "jaw_roundness": 0.4141254012851811,
+      "brow_curve": 0.7910667247285321,
+      "contrast_level": 0.5539803673582268,
+      "warmth": 0.6418438693055263
+    }
+  },
+  "MCDW": {
+    "index": 4,
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "numeric_params": {
+      "eye_size": 0.7801068861097811,
+      "face_length": 0.27586406260750757,
+      "jaw_roundness": 0.354862354235667,
+      "brow_curve": 0.6041598014278222,
+      "contrast_level": 0.6730708896021013,
+      "warmth": 0.5664296174338078
+    }
+  },
+  "YCDK": {
+    "index": 6,
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "numeric_params": {
+      "eye_size": 0.6340442654651792,
+      "face_length": 0.1824252980054713,
+      "jaw_roundness": 0.7038602810515078,
+      "brow_curve": 0.7755274083525026,
+      "contrast_level": 0.855285588575188,
+      "warmth": 0.8167288454793914
+    }
+  },
+  "YCSK": {
+    "index": 8,
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "numeric_params": {
+      "eye_size": 0.6423208098014231,
+      "face_length": 0.2371966141873018,
+      "jaw_roundness": 0.5902068562079978,
+      "brow_curve": 0.6855352848861271,
+      "contrast_level": 0.666263648249781,
+      "warmth": 0.6548727876164653
+    }
+  },
+  "YLDW": {
+    "index": 9,
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "numeric_params": {
+      "eye_size": 0.6785888368528171,
+      "face_length": 0.3997106304182029,
+      "jaw_roundness": 0.4017184595398899,
+      "brow_curve": 0.5508996272599423,
+      "contrast_level": 0.424786309175311,
+      "warmth": 0.5117073968225988
+    }
+  },
+  "MLSK": {
+    "index": 10,
+    "axes": {
+      "age": "M",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, sharper jawline, straighter facial contours, straight eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "numeric_params": {
+      "eye_size": 0.7047923602624446,
+      "face_length": 0.21206337896814087,
+      "jaw_roundness": 0.5985450253508996,
+      "brow_curve": 0.8083777556168211,
+      "contrast_level": 0.5697451227282135,
+      "warmth": 0.5310459963065894
+    }
+  },
+  "YCSW": {
+    "index": 11,
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "W"
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "numeric_params": {
+      "eye_size": 0.6997891760745509,
+      "face_length": 0.31365180041328794,
+      "jaw_roundness": 0.4170517181904194,
+      "brow_curve": 0.5647998227063438,
+      "contrast_level": 0.5279631785838693,
+      "warmth": 0.6954245635313311
+    }
+  },
+  "MCSK": {
+    "index": 13,
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "K"
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "numeric_params": {
+      "eye_size": 0.7005482838438395,
+      "face_length": 0.38627753517884095,
+      "jaw_roundness": 0.5020785800870163,
+      "brow_curve": 0.6301801946921655,
+      "contrast_level": 0.5659283328444491,
+      "warmth": 0.7329420745333275
+    }
+  },
+  "MCDK": {
+    "index": 15,
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "numeric_params": {
+      "eye_size": 0.6811747841360113,
+      "face_length": 0.398036324517505,
+      "jaw_roundness": 0.465266699540569,
+      "brow_curve": 0.44184529977324516,
+      "contrast_level": 0.6541773350079026,
+      "warmth": 0.6446289289753222
+    }
+  },
+  "MCSW": {
+    "index": 17,
+    "axes": {
+      "age": "M",
+      "line": "C",
+      "contrast": "S",
+      "vibe": "W"
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, soft rounded facial features, rounder jawline, gently curved eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "numeric_params": {
+      "eye_size": 0.4624600673859622,
+      "face_length": 0.15496879235580466,
+      "jaw_roundness": 0.571828584611223,
+      "brow_curve": 0.7222564507605673,
+      "contrast_level": 0.4890566233736548,
+      "warmth": 0.8888874005085431
+    }
+  },
+  "MLDW": {
+    "index": 19,
+    "axes": {
+      "age": "M",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, sharper jawline, straighter facial contours, straight eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "numeric_params": {
+      "eye_size": 0.7541089864405567,
+      "face_length": 0.13847239271118555,
+      "jaw_roundness": 0.42202413715355186,
+      "brow_curve": 0.7747032718275703,
+      "contrast_level": 0.5102680821970569,
+      "warmth": 0.6071735823648235
+    }
+  },
+  "MLDK": {
+    "index": 21,
+    "axes": {
+      "age": "M",
+      "line": "L",
+      "contrast": "D",
+      "vibe": "K"
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, sharper jawline, straighter facial contours, straight eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, calm and cool expression, composed, slightly mysterious, quiet and elegant, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "numeric_params": {
+      "eye_size": 0.6389978027488314,
+      "face_length": 0.31103139789382056,
+      "jaw_roundness": 0.42843093581480124,
+      "brow_curve": 0.5658439561724246,
+      "contrast_level": 0.7357069255458336,
+      "warmth": 0.7047193434285092
+    }
+  },
+  "YLSW": {
+    "index": 24,
+    "axes": {
+      "age": "Y",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "W"
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), sharper jawline, straighter facial contours, straight eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "numeric_params": {
+      "eye_size": 0.6012048565008328,
+      "face_length": 0.20302776251406815,
+      "jaw_roundness": 0.5021025304465053,
+      "brow_curve": 0.7076903877470084,
+      "contrast_level": 0.6650477006045807,
+      "warmth": 0.8113680909177823
+    }
+  },
+  "YCDW": {
+    "index": 28,
+    "axes": {
+      "age": "Y",
+      "line": "C",
+      "contrast": "D",
+      "vibe": "W"
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, young adult woman with a soft babyface, slightly bigger eyes, slightly shorter lower face (still an adult), soft rounded facial features, rounder jawline, gently curved eyebrows, striking facial features, high contrast, dramatic lighting, strong shadows and highlights, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "numeric_params": {
+      "eye_size": 0.6425465934667433,
+      "face_length": 0.1929837595643352,
+      "jaw_roundness": 0.523954186453462,
+      "brow_curve": 0.6770118880384787,
+      "contrast_level": 0.6606377857008583,
+      "warmth": 0.39096792207896996
+    }
+  },
+  "MLSW": {
+    "index": 45,
+    "axes": {
+      "age": "M",
+      "line": "L",
+      "contrast": "S",
+      "vibe": "W"
+    },
+    "prompt": "high quality color photo of a Japanese adult woman in her 20s or 30s, female, woman, clearly female, 1 woman, medium-length black straight hair or slightly wavy hair, natural feminine hairstyle, slender shoulders, realistic body proportions, realistic skin texture, detailed face, natural realistic color photo, color photograph, vibrant colors, high saturation, natural skin tones, colorful lighting, simple feminine casual clothes, natural soft makeup, light makeup, shot in Japan, upper body, plain background, mature adult woman with stronger bone structure and a slightly longer midface, sharper jawline, straighter facial contours, straight eyebrows, subtle facial features, soft contrast, gentle lighting, low contrast between skin and hair, warm and friendly expression, slight gentle smile, approachable and kind, natural Japanese woman, soft feminine facial features, medium or long black hair with gentle layers, slightly soft jawline, delicate features, natural soft makeup, light blush, subtle lip tint, clean and simple casual fashion, feminine but not sexy",
+    "numeric_params": {
+      "eye_size": 0.8916276311610517,
+      "face_length": 0.277707554937695,
+      "jaw_roundness": 0.33691008193157296,
+      "brow_curve": 0.5560720167180966,
+      "contrast_level": 0.6122560469927556,
+      "warmth": 0.8803990903283859
+    }
+  }
+}

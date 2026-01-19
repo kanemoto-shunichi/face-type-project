@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+numpy
+opencv-python-headless
+mediapipe==0.10.9
+pillow
+supabase
+httpx
+pydantic
+sentry-sdk

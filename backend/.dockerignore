@@ -1,0 +1,16 @@
+# --- Git・Docker管理 ---
+.git
+.gitignore
+.dockerignore
+
+# --- 開発環境・キャッシュ（絶対に入れない） ---
+.env          
+.venv
+__pycache__
+*.pyc
+
+# --- 本番で使わないもの（除外してOK） ---
+tests/                 
+train.py               
+check_raw_values.py    
+README.md

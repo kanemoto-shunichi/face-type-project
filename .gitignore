@@ -60,6 +60,7 @@ env/
 backend/.env
 
 # Terraform generated files
-.terraform
+terraform/
+*.tf
 *.tfstate
 *.tfstate.backup
